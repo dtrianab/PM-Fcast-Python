@@ -1,0 +1,9 @@
+.DS_Store
+.project
+.vscode
+*.pyc
+*.log
+*.bak
+logs/
+.ipynb_checkpoints/
+
